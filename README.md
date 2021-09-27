@@ -61,7 +61,7 @@ This is an example of how to list things you need to use the software and how to
 
 - Clone This Front End Repo
 ```
-git clone https://github.com/aryairama/zwallet-react.git
+git clone https://github.com/Candra-Kurnia/zwallet-react.git
 ```
 - Go To Folder Repo
 ```
