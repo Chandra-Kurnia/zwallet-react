@@ -165,6 +165,6 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact
 
-My Email : aryairama987@gmail.com
+My Email : candrakurniawan.dev@gmail.com
 
-Project Link: [https://github.com/aryairama/zwallet-react](https://github.com/aryairama/zwallet-react)
+Project Link: [https://github.com/Chandra-Kurnia/zwallet-react](https://github.com/Chandra-Kurnia/zwallet-react)
